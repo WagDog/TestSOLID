@@ -10,7 +10,6 @@ namespace TestSOLID
     {
         static void Main(string[] args)
         {
-            string test = "";
             string s = "SOLID (Refer to Section 4). SOLID is an acronym for the following:-\n\n";
             s += "S - Single Responsibility Principal\n";
             s += "\tThere should never be more than one reason for a class change.\n";
